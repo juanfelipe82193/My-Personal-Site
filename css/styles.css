@@ -235,7 +235,152 @@ img.hoverImages {
 
 
 
+@media (max-width: 480px) {
+    h1 {
+        font-size: 4rem;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-family: 'Sacramento', cursive;
+    }
+    
+    h2 {
+        font-family: 'Montserrat Alternates', sans-serif;
+        font-size: 1.5rem;
+        margin-top: 30px;
+    }
+    
+    h3 {
+        font-family: 'Montserrat Alternates', sans-serif;
+        margin: 30px auto 30px auto;
+        font-size: 1.3rem;
+    }
+    
+    p {
+        width: 330px;
+        margin-left: auto;
+        margin-right: auto;
+        line-height: 2;
+        font-size: 0.8rem;
+        text-align: justify;
+    }
 
+    .subtitle {
+        padding-top: 50px;
+    }
+
+    .top-container {
+        height: 430px;
+    }
+
+    .ruins {
+        width: 375px;
+        height: 200px;
+        top: 25px;
+    }
+
+    .clouds-2 {
+        width: 340px;
+        right: 0px;
+    }
+
+    .middle-container {
+        justify-content: center;
+        text-align: center;
+        height: 1974px;
+    }
+
+    .profile {
+        margin-left: 5px;
+        margin-right: 5px;
+        padding-top: 20px;
+    }
+
+    .profile-image {
+        height: 130px;
+        padding-bottom: 0px;
+    }
+
+    .ent-img {
+        width: 300px;
+    }
+
+    .skill-row {
+        margin-right: 0px;
+        width: 350px;
+        margin-left: 0px;
+        padding-left: 10px;
+        padding-right: 10px;   
+    }
+
+    .dev-img {
+        width: 358px;
+    }
+
+    .web-design-subtitle {
+        margin-right: 0px;
+        width: 360px;
+        margin-top: 30px;
+    }
+
+    .enterprise {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .development {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .contact-me-container {
+        padding-top: 80px;
+        padding-bottom: 80px;
+        margin-left: auto;
+        margin-right: auto;
+        display: inline-block;
+        align-items: center;
+        align-content: center;
+        justify-content: center;
+    }
+
+    .scene-image {
+        height: 200px;
+    }
+
+    .text-content-container {
+        width: 350px;
+        text-align: center;
+    }
+
+    .contact-me-container {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .contact-me-par {
+        width: 350px;
+        text-align: center;
+    }
+
+    .btn {
+        background-color:#378de5;
+        border-radius:42px;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family: 'Montserrat Alternates', sans-serif;
+        font-size:20px;
+        padding:13px 55px;
+        text-decoration:none;
+    }
+
+    .surname {
+        text-align: center;
+        width: 300px;
+    }
+}
 
 
 
