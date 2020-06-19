@@ -278,6 +278,10 @@ img.hoverImages {
         top: 25px;
     }
 
+    .clouds-1 {
+        width: 375px;
+    }
+
     .clouds-2 {
         width: 340px;
         right: 0px;
@@ -286,13 +290,13 @@ img.hoverImages {
     .middle-container {
         justify-content: center;
         text-align: center;
-        height: 1974px;
+        height: 2040px;
     }
 
     .profile {
-        margin-left: 5px;
-        margin-right: 5px;
         padding-top: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
     }
 
     .profile-image {
@@ -318,8 +322,9 @@ img.hoverImages {
 
     .web-design-subtitle {
         margin-right: 0px;
-        width: 360px;
+        width: 350px;
         margin-top: 30px;
+        text-align: center;
     }
 
     .enterprise {
@@ -379,6 +384,10 @@ img.hoverImages {
     .surname {
         text-align: center;
         width: 300px;
+    }
+
+    .bottom-container {
+        width: 374px;
     }
 }
 
